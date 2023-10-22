@@ -23,3 +23,6 @@ This is a solution to the [QR code component challenge]
 ![](screenshots/full.jpg)
 #### Mobile
 ![](screenshots/mobile.jpg)
+
+### Links
+- Solution URL: [https://czerpii.github.io/QR-code-component/]

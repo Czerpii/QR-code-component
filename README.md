@@ -6,13 +6,8 @@ This is a solution to the [QR code component challenge]
 - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 
 
 ## Overview
@@ -26,3 +21,8 @@ This is a solution to the [QR code component challenge]
 
 ### Links
 - Solution URL: [https://czerpii.github.io/QR-code-component/]
+
+
+## Author
+- Fronted Mentor - [@Czerpii] (https://www.frontendmentor.io/profile/Czerpii)
+- Twitter - [@Czerpi1] (https://twitter.com/Czerpi1)
